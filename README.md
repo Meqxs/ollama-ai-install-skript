@@ -50,11 +50,11 @@ The script includes options for these popular models:
 1. **Download the script**:
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/ollama-ai-install-skript.git
+   git clone https://github.com/Meqxs/ollama-ai-install-skript.git
    cd ollama-ai-install-skript
    
    # Or download directly with curl
-   curl -O https://raw.githubusercontent.com/yourusername/ollama-ai-install-skript/main/install_ollama.sh
+   curl -O https://raw.githubusercontent.com/Meqxs/ollama-ai-install-skript/main/install_ollama.sh
    ```
 
 2. **Make it executable**:
