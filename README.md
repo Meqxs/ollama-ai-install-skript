@@ -49,7 +49,12 @@ The script includes options for these popular models:
 
 1. **Download the script**:
    ```bash
-   # Clone or download the script to your system
+   # Clone the repository
+   git clone https://github.com/yourusername/ollama-ai-install-skript.git
+   cd ollama-ai-install-skript
+   
+   # Or download directly with curl
+   curl -O https://raw.githubusercontent.com/yourusername/ollama-ai-install-skript/main/install_ollama.sh
    ```
 
 2. **Make it executable**:
